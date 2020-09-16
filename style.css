@@ -1,0 +1,68 @@
+.sticky-container {
+    position: relative;
+    margin-top: 2vw;
+
+}
+
+.note {
+    font-family: 'Lemonada', cursive;
+    color: #000;
+    position: relative;
+    width: 14vw;
+    height: 12vw;
+    margin: 0 auto;
+    padding: 1.25em;
+    font-size: 1vw;
+    box-shadow: 0em 0.625em 0.625em 0.125em rgba(0, 0, 0, 0.3);
+}
+
+
+.canary {
+    background: #FFFF99;
+    -webkit-transform: rotate(2deg);
+    -moz-transform: rotate(2deg);
+    -o-transform: rotate(2deg);
+    -ms-transform: rotate(2deg);
+    transform: rotate(2deg);
+}
+
+.yellow {
+    background: #fff740;
+    -webkit-transform: rotate(2deg);
+    -moz-transform: rotate(2deg);
+    -o-transform: rotate(2deg);
+    -ms-transform: rotate(2deg);
+    transform: rotate(2deg);
+}
+
+.lightBlue {
+    background: #7afcff;
+    -webkit-transform: rotate(2deg);
+    -moz-transform: rotate(2deg);
+    -o-transform: rotate(2deg);
+    -ms-transform: rotate(2deg);
+    transform: rotate(2deg);
+}
+
+.brightPink {
+    background: #ff65a3;
+    -webkit-transform: rotate(2deg);
+    -moz-transform: rotate(2deg);
+    -o-transform: rotate(2deg);
+    -ms-transform: rotate(2deg);
+    transform: rotate(2deg);
+}
+
+.pink {
+    background: #ff7eb9;
+    -webkit-transform: rotate(2deg);
+    -moz-transform: rotate(2deg);
+    -o-transform: rotate(2deg);
+    -ms-transform: rotate(2deg);
+    transform: rotate(2deg);
+}
+
+.epic {
+    width: 50vw;
+    height: 30vw;
+}
